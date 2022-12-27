@@ -1,0 +1,48 @@
+2022-12-18 03:31:06,497 - __main__ - INFO - Information
+2022-12-18 03:31:06,497 - __main__ - WARNING - warning
+2022-12-18 03:31:18,505 - __main__ - INFO - This is log info
+2022-12-18 03:49:14,020 - __main__ - INFO - Information
+2022-12-18 03:49:14,020 - __main__ - WARNING - warning
+2022-12-18 03:49:20,662 - __main__ - INFO - This is log info
+2022-12-18 03:50:20,317 - __main__ - INFO - Information
+2022-12-18 03:50:20,317 - __main__ - WARNING - warning
+2022-12-18 03:50:23,974 - __main__ - INFO - This is log info
+2022-12-18 03:50:34,088 - __main__ - INFO - Information
+2022-12-18 03:50:34,090 - __main__ - WARNING - warning
+2022-12-18 03:50:38,574 - __main__ - INFO - This is log info
+2022-12-18 04:01:52,724 - __main__ - INFO - Information
+2022-12-18 04:01:52,724 - __main__ - WARNING - warning
+2022-12-18 04:01:58,573 - __main__ - INFO - This is log info
+2022-12-18 04:03:18,007 - __main__ - INFO - Information
+2022-12-18 04:03:18,008 - __main__ - WARNING - warning
+2022-12-18 04:03:24,140 - __main__ - INFO - This is log info
+2022-12-19 22:37:57,822 - __main__ - INFO - Information
+2022-12-19 22:37:57,822 - __main__ - WARNING - warning
+2022-12-19 22:38:03,130 - __main__ - INFO - This is log info
+2022-12-20 00:00:50,201 - __main__ - INFO - Information
+2022-12-20 00:00:50,201 - __main__ - WARNING - warning
+2022-12-20 00:00:54,015 - __main__ - INFO - This is log info
+2022-12-20 00:03:33,982 - __main__ - INFO - Information
+2022-12-20 00:03:33,982 - __main__ - WARNING - warning
+2022-12-20 00:03:37,247 - __main__ - INFO - This is log info
+2022-12-21 22:17:43,980 - __main__ - INFO - Information
+2022-12-21 22:17:43,981 - __main__ - WARNING - warning
+2022-12-21 22:17:47,982 - __main__ - INFO - This is log info
+2022-12-21 22:18:07,647 - __main__ - INFO - Information
+2022-12-21 22:18:07,647 - __main__ - WARNING - warning
+2022-12-21 22:18:11,825 - __main__ - INFO - This is log info
+2022-12-21 22:18:22,669 - __main__ - INFO - Information
+2022-12-21 22:18:22,669 - __main__ - WARNING - warning
+2022-12-21 22:18:28,451 - __main__ - INFO - This is log info
+2022-12-21 22:18:38,761 - __main__ - INFO - Information
+2022-12-21 22:18:38,761 - __main__ - WARNING - warning
+2022-12-21 22:18:44,037 - __main__ - INFO - This is log info
+2022-12-21 22:19:14,953 - __main__ - INFO - Information
+2022-12-21 22:19:14,954 - __main__ - WARNING - warning
+2022-12-21 22:19:19,893 - __main__ - INFO - This is log info
+2022-12-21 22:36:40,790 - __main__ - INFO - Information
+2022-12-21 22:36:40,790 - __main__ - WARNING - warning
+2022-12-21 22:36:45,437 - __main__ - INFO - This is log info
+2022-12-21 22:36:58,641 - __main__ - INFO - Information
+2022-12-21 22:36:58,641 - __main__ - WARNING - warning
+2022-12-21 22:37:03,587 - __main__ - INFO - This is log info
